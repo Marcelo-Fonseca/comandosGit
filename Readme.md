@@ -7,7 +7,7 @@ git list -> lista que foi feito.
 git status -> mostra que esta acontecendo"mudanças a serem commitadas.
 
 git init-> incializa o git na pasta
-git add -> envia os arquvos celecionados para a area de  stage um espaço de espera, aguardando para commit .
+git add -> envia os arquvos celecionados para a area de  stage um espaço de espera, aguardando para commit .comm
 mudar o nome de (Master) Para (Main)
 git branch -M "main"
 git commit -A = pega todos os arquivos adiciona no stage local de espera aguardando commit
