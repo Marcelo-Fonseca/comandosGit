@@ -10,5 +10,5 @@ git init-> incializa o git na pasta
 git add -> envia os arquvos celecionados para a area de  stage um espaço de espera, aguardando para commit .
 mudar o nome de (Master) Para (Main)
 git branch -M "main"
-git commit -a
+git commit -A = pega todos os arquivos adiciona no stage local de espera aguardando commit
 git push -u origin main
